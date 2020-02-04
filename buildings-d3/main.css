@@ -1,0 +1,9 @@
+svg {
+    margin-left: 30%;
+    border: 1px solid;
+}
+
+rect {
+    stroke: black;
+    stroke-width: 1;
+}
